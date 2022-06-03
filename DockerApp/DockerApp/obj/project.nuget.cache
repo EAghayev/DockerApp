@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "kqj+FZsEplS38vINEj6ONXGGTm9PmiXvtMtf1zxSsNBxMVa6mYp7YpnzLwgw9OSnZrjXc2hcgm/SqmFjRKbu4w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Eagha\\Desktop\\Repos\\Roadmap1\\DockerApp\\DockerApp\\DockerApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Eagha\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.14.0\\microsoft.visualstudio.azure.containers.tools.targets.1.14.0.nupkg.sha512"
+  ],
+  "logs": []
+}
